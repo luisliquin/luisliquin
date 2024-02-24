@@ -2,7 +2,7 @@
 Solo una breve concrecion sobre cada uno de los desarrollos.
 
 ## Sobre los proyectos
-La mayoria nde los proyectos son en lenguaje Netcore, pero podran visualizar diferentes estilos
+Son proyectos de estudio, a la brevedad se agregara algun proyecto orientado a Netcore con react
 
 ## Licencia
 Licencia libre para su uso y difusion
