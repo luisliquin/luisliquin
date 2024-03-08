@@ -12,7 +12,7 @@ Todos los proyectos están bajo licencia libre. Estás invitado a usar, modifica
 
 :link: Contacto
 
-Para colaboraciones, preguntas o simplemente para conectar, no dudes en visitar mi perfil de LinkedIn: Luis Liquin.
+Para colaboraciones, preguntas o simplemente para conectar, no dudes en visitar mi perfil de LinkedIn: [Luis Liquin](https://www.linkedin.com/in/luisliquin/).
 
 :heart: Agradecimientos
 
