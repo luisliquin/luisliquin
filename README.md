@@ -1,19 +1,48 @@
-:computer: Prácticas y Proyectos
+# Hola, soy Luis 👋
 
-Bienvenido a mi espacio de desarrollo, donde la pasión por la programación se encuentra con la innovación y el aprendizaje continuo. Aquí encontrarás una selección de mis proyectos de estudio, enfocándome en soluciones .NET Core integradas con React para crear aplicaciones web modernas y eficientes.
+**Desarrollador de software | .NET Core · React · Microservicios**  
+📍 Buenos Aires, Argentina
 
-:bulb: Sobre los Proyectos
+Desarrollo aplicaciones web y servicios backend con foco en código limpio, buenas prácticas y arquitecturas mantenibles. Me interesa especialmente el ecosistema **.NET Core + React** y el diseño de **microservicios** desplegados en contenedores.
 
-Mis proyectos son el resultado de exploraciones y desafíos personales en el mundo del desarrollo de software. Próximamente, estaré compartiendo proyectos específicamente orientados a .NET Core con React, destacando las mejores prácticas, patrones de diseño y la integración de tecnologías modernas para el desarrollo de aplicaciones web.
+---
 
-:page_facing_up: Licencia
+## 🛠️ Stack
 
-Todos los proyectos están bajo licencia libre. Estás invitado a usar, modificar y distribuir el código según tus necesidades, fomentando así la colaboración y el aprendizaje compartido.
+**Backend:** C# · .NET Core · Node.js · NestJS · APIs REST · Microservicios  
+**Frontend:** React · JavaScript · TypeScript · HTML · CSS  
+**Datos:** SQL Server · Oracle PL/SQL · MongoDB · Power BI  
+**DevOps y Cloud:** Docker · Kubernetes · OpenShift · Jenkins · Azure  
+**Metodologías:** Scrum · SAFe · Clean Code · Patrones de diseño
 
-:link: Contacto
+---
 
-Para colaboraciones, preguntas o simplemente para conectar, no dudes en visitar mi perfil de LinkedIn: [Luis Liquin](https://www.linkedin.com/in/luisliquin/).
+## 📂 Proyectos
 
-:heart: Agradecimientos
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [coderhouse-nodejs-backend](https://github.com/luisliquin?tab=repositories) | Desafíos y proyecto final del curso de Node.js Backend: API REST, persistencia y arquitectura en capas | Node.js · Express · MongoDB |
+| [mensajeria](https://github.com/luisliquin/mensajeria) | Microservicios de geolocalización para geocodificar direcciones, ejecutados en contenedores | Docker · Microservicios |
+| [logicanetcore](https://github.com/luisliquin/logicanetcore) | Resolución de desafíos de lógica de programación | C# · .NET Core |
 
-Mi más sincero agradecimiento a la comunidad de desarrolladores. Vuestra visita y contribuciones enriquecen este espacio, fomentando un ambiente de aprendizaje y colaboración. ¡Gracias por ser parte de este viaje!
+### 🚧 En desarrollo
+- **EduCore**: plataforma educativa con API en .NET Core, frontend en React y arquitectura de microservicios.
+
+---
+
+## 📚 Formación
+
+- Técnico Superior en Análisis de Sistemas
+- Licenciatura en Tecnologías Digitales (en curso)
+- Node.js Backend (en curso)
+- Certificación SAFe 6
+
+---
+
+## 🤝 Contacto
+
+Si querés charlar sobre tecnología, proyectos o colaborar, escribime por [LinkedIn](https://www.linkedin.com/in/luisliquin/).
+
+---
+
+⭐ Todo el código de mis repositorios es de uso libre: podés usarlo, modificarlo y compartirlo.
