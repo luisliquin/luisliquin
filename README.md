@@ -21,7 +21,9 @@ Desarrollo aplicaciones web y servicios backend con foco en código limpio, buen
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [coderhouse-nodejs-backend](https://github.com/luisliquin?tab=repositories) | Desafíos y proyecto final del curso de Node.js Backend: API REST, persistencia y arquitectura en capas | Node.js · Express · MongoDB |
+| [backend1](https://github.com/luisliquin/backend1) | Backend I: API REST de e-commerce con Express, vistas en tiempo real con Socket.io y persistencia en MongoDB | Node.js · Express · MongoDB · Socket.io |
+| [backend2](https://github.com/luisliquin/backend2) | Backend II: autenticación con Passport y JWT, arquitectura en capas (DAO, DTO, repository) y tickets de compra | Node.js · Express · MongoDB · JWT |
+| [backend3](https://github.com/luisliquin/backend3) | Backend III: API de adopción de mascotas con mocks, documentación Swagger, tests y Docker | Node.js · Express · Swagger · Docker |
 | [mensajeria](https://github.com/luisliquin/mensajeria) | Microservicios de geolocalización para geocodificar direcciones, ejecutados en contenedores | Docker · Microservicios |
 | [logicanetcore](https://github.com/luisliquin/logicanetcore) | Resolución de desafíos de lógica de programación | C# · .NET Core |
 
@@ -43,6 +45,3 @@ Desarrollo aplicaciones web y servicios backend con foco en código limpio, buen
 
 Si querés charlar sobre tecnología, proyectos o colaborar, escribime por [LinkedIn](https://www.linkedin.com/in/luisliquin/).
 
----
-
-⭐ Todo el código de mis repositorios es de uso libre: podés usarlo, modificarlo y compartirlo.
